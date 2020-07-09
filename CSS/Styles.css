@@ -161,13 +161,13 @@ width: 70%;
 .CSR-img{
 position: absolute;
 left: 26%;
-top: 3420px;
+top: 3540px;
 }
 
 .INT-img{
 position: absolute;
 left: 27%;
-top: 4270px;
+top: 4385px;
 }
 
 
@@ -175,36 +175,38 @@ top: 4270px;
 position: absolute;
 width: 12%;
 left:  78%;
-top:3670px;
+top:3790px;
 }
 
 .NDTV-img{
 position: absolute;
 width: 10%;
 left:  78%;
-top:3770px;
+top:3880px;
 }
 
 .MD-img{
 position: absolute;
 width: 15%;
 left:  76%;
-top:3830px;
+top:3940px;
 }
 
 .LR-img{
 position: absolute;
 width: 7%;
 left:  80%;
-top:3950px;
+top:4040px;
 }
 
 .profile{
-  margin-top: 0;
+  width: 1200px;
+  margin: auto;
 }
 
 .mountain{
   margin-bottom: 50px;
+  margin-bottom: 0;
 }
 
 .btn {
