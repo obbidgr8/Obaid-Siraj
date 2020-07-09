@@ -42,6 +42,7 @@ h5{
 
 .middle-container {
   background-color: #EAF9F5;
+  position: relative;
 }
 
 .skill-row
@@ -142,14 +143,6 @@ width: 70%;
   bottom: 280px;
 }
 
-.work-img {
-  width: 30%;
-  float: right;
-  position: absolute;
-  right: 175px;
-  bottom: 40px;
-}
-
 .achievements-img {
   position: relative;
   right: 320px;
@@ -158,45 +151,55 @@ width: 70%;
   width: 18%;
 }
 
-.CSR-img{
-position: absolute;
-left: 26%;
-top: 3540px;
-}
+
 
 .INT-img{
 position: absolute;
 left: 27%;
-top: 4385px;
+top: 3180px;
+}
+
+.work-img {
+  width: 30%;
+  float: right;
+  position: absolute;
+  right: 175px;
+  bottom: 40px;
+}
+
+.CSR-img{
+position: absolute;
+left: 25%;
+top: 2330px;
 }
 
 
 .MM-img{
-position: absolute;
 width: 12%;
-left:  78%;
-top:3790px;
+position: absolute;
+right: 10%;
+top: 2580px;
 }
 
 .NDTV-img{
-position: absolute;
 width: 10%;
-left:  78%;
-top:3880px;
+position: absolute;
+right: 11%;
+top: 2680px;
 }
 
 .MD-img{
-position: absolute;
 width: 15%;
-left:  76%;
-top:3940px;
+position: absolute;
+right: 8.5%;
+top: 2740px;
 }
 
 .LR-img{
-position: absolute;
 width: 7%;
-left:  80%;
-top:4040px;
+position: absolute;
+right: 12.5%;
+top: 2850px;
 }
 
 .profile{
